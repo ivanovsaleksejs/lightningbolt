@@ -79,7 +79,7 @@ Then strokes lines between all connected nodes.
   // Defines how likely the current node will create a fork
   // Fork is an offshoot of the current segment
   forkDepth: 4, 
-  // A current max fork
+  // Deepest generated fork. Used to define the width segments
   maxFork: 0, 
   // Stores all generated nodes
   nodes: [], 
