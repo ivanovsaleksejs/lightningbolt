@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/8b5c7afe-1b2a-4c01-ab6a-471026355c38
 ## Usage
 
 ```js
-import LightningBolt from './lightningbolt.js
+import LightningBolt from './lightningbolt.js'
 
 const options = {
   bgFill: false,
