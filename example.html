@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lightning Bolt</title>
+    <style>
+      canvas {
+        background: url('sky.jpg');
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      #seed {
+        width: 30%
+      }
+    </style>
+    <script src="example.js" type="module"></script>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="900" height="700"></canvas>
+    <br />
+    <input type="text" id="seedValue" value="1">
+    <button id="toggle">Start animation</button>
+    <input type="range" id="seed" value="1" min="1" max="4294967296" class="slider">
+  </body>
+</html>
+
