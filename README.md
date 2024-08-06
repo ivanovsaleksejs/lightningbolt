@@ -1,4 +1,4 @@
-## Lightning bolt generator
+# Lightning bolt generator
 
 A script that generates a realistic looking lightning bolt.
 
@@ -8,7 +8,7 @@ A script that generates a realistic looking lightning bolt.
 https://github.com/user-attachments/assets/8b5c7afe-1b2a-4c01-ab6a-471026355c38
 
 
-### Usage
+## Usage
 
 ```js
 import LightningBolt from './lightningbolt.js
@@ -35,9 +35,9 @@ class Node
 ```
 Then strokes lines between all connected nodes.
 
-### Methods and options
+## Methods and options
 
-# Methods:
+### Methods:
 * `constructor(canvas, rand, options)` - Constructs the object of a LightningBolt class.
     * `canvas` - The canvas element.
     * `rand` - Random number generator. You can provide seedable RNG to be able to reproduce the exact bolt. See example.js.
@@ -50,7 +50,7 @@ Then strokes lines between all connected nodes.
     * `x1, y1, x2, y2` - The coordinates of a base segment. The gradient will be centered at the middle of it.
 * `drawGlow()` - Draws a glow effect around the bolt. Called by `draw()` if `glow` is set.
 
-# The options and default values are:
+### The options and default values are:
 ```js
 {
   // Distance between top and bottom
