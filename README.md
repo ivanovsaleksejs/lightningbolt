@@ -2,7 +2,7 @@
 
 A script that generates a realistic looking lightning bolt.
 
-![alt text](ivanovsaleksejs/lightningbolt/blob/main/example2.jpg?raw=true)
+![alt text](/ivanovsaleksejs/lightningbolt/blob/main/example2.jpg?raw=true)
 
 ### Usage
 
@@ -98,6 +98,6 @@ Then strokes lines between all connected nodes.
 }
 ```
 
-![alt text](ivanovsaleksejs/lightningbolt/blob/main/example.jpg?raw=true)
-![alt text](ivanovsaleksejs/lightningbolt/blob/main/example3.jpg?raw=true)
+![alt text](/ivanovsaleksejs/lightningbolt/blob/main/example.jpg?raw=true)
+![alt text](/ivanovsaleksejs/lightningbolt/blob/main/example3.jpg?raw=true)
 
