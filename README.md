@@ -2,7 +2,7 @@
 
 A script that generates a realistic looking lightning bolt.
 
-![alt text](example2.jpg?raw=true)
+![alt text](example2.png?raw=true)
 
 ### Usage
 
@@ -98,6 +98,6 @@ Then strokes lines between all connected nodes.
 }
 ```
 
-![alt text](example.jpg?raw=true)
-![alt text](example3.jpg?raw=true)
+![alt text](example.png?raw=true)
+![alt text](example3.png?raw=true)
 
