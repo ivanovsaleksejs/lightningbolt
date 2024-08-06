@@ -64,7 +64,7 @@ Then strokes lines between all connected nodes.
   boltColor: `rgba(255, 255, 255, 0.3)`, 
   // The base width of the bolt
   boltWidth: 1, 
-  // Whether to draw the flow effect surrounding the bolt
+  // Whether to draw the glow effect surrounding the bolt
   glow: true, 
   // How many layers of glow effect to draw
   glowLayers: 4, 
