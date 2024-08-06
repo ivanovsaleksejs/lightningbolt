@@ -4,6 +4,10 @@ A script that generates a realistic looking lightning bolt.
 
 ![alt text](example2.png?raw=true)
 
+
+https://github.com/user-attachments/assets/8b5c7afe-1b2a-4c01-ab6a-471026355c38
+
+
 ### Usage
 
 ```js
@@ -100,4 +104,8 @@ Then strokes lines between all connected nodes.
 
 ![alt text](example.png?raw=true)
 ![alt text](example3.png?raw=true)
+
+
+https://github.com/user-attachments/assets/e808330a-60b7-4e2b-9deb-6118e9382e64
+
 
