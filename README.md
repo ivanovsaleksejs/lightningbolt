@@ -41,7 +41,7 @@ Then strokes lines between all connected nodes.
 * `constructor(canvas, rand, options)` - Constructs the object of a LightningBolt class.
     * `canvas` - The canvas element.
     * `rand` - Random number generator. You can provide seedable RNG to be able to reproduce the exact bolt. See example.js.
-    * `options` - The options listed below.
+    * `options` - The options listed [below](#the-options-and-default-values-are).
 * `generate(x, y)` - generates list of nodes and draws strokes between.
     * `x, y` - The width and the height of a base rectangle for a bolt.
 * `draw()` - Draws strokes between nodes. Called by `generate()`.
